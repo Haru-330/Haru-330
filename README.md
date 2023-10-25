@@ -3,3 +3,4 @@
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru-330&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haru-330&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20haru-330)](https://github.com/haru-330)
+[![github-chart](https://github-chart.vercel.app/api?user=haru-330)](https://github.com/haru-330/github-chart)
