@@ -1,14 +1,26 @@
-<img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
-<h1>Hi, there!! This is my Profile!</h1>
-<h1>Status</h1>
+<img alt="haru-330" src="header.svg" width="98.2%" height="100%">
+<h1>About Me</h1>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru-330&theme=2077)
+Hello! I'm Haru-330, a Japanese university student.
+
+Currently, I am involved in development using Laravel as an intern at a company.
+
+I have experience developing applications using Swift and Kotlin.
+
+<h1>Connect with me</h1>
+<a href="https://github.com/Haru-330" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Blog_IT_haru" target="_blank">
+<img src=https://img.shields.io/badge/x-%324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
+</a> 
+
+<h1>GitHub Stats</h1>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru-330&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=haru-330&theme=dracula&hide_border=false" /><br/>
+<img alt="github stats" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=haru-330&theme=dracula&show_icons=ture&count_private=true" />
+<img alt="Top Langs" height="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=haru-330&layout=compact&show_icons=true&theme=dracula" />
+
+<h1>GitHub Trophies</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haru-330&theme=onedark)](https://github-profile-trophy.vercel.app/?username=haru-330&theme=tokyonight)
-
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru-330&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haru-330&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20haru-330)](https://github.com/haru-330)
-
-[![github-chart](https://github-chart.vercel.app/api?user=haru-330)](https://github.com/haru-330/github-chart)
