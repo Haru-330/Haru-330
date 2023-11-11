@@ -5,6 +5,8 @@ Hello! I'm Haru-330, a Japanese university student.
 
 Currently, I am involved in development using Laravel as an intern at a company.
 
+I also create UI and code CSS and HTML using Figma.
+
 I have experience developing applications using Swift and Kotlin.
 
 <h1>Connect with me</h1>
