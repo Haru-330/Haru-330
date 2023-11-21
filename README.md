@@ -17,7 +17,7 @@ I have experience developing applications using Swift and Kotlin.
 <img src=https://img.shields.io/badge/x-%324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
 </a> 
 
-<h1>GitHub Stats</h1>
+<h1>GitHub Status</h1>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru-330&theme=dracula" /><br/>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=haru-330&theme=dracula&hide_border=false" /><br/>
 <img alt="github stats" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=haru-330&theme=dracula&show_icons=ture&count_private=true" />
