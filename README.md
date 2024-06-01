@@ -1,11 +1,15 @@
 <img alt="haru-330" src="header.svg" width="98.2%" height="100%">
 <h1>About Me</h1>
 
-Hello! I'm Haru-330, a Japanese university student.
+Hello! I'm Haru-330.
 
-Currently, I am involved in development using Laravel as an intern at a company.
+I am a developer living in Japan.
 
-I also create UI and code CSS and HTML using Figma.
+I am currently in my first year as a new graduate.
+
+I was involved in development using Laravel as an intern at a company.
+
+I also created UI and code CSS and HTML using Figma.
 
 I have experience developing applications using Swift and Kotlin.
 
