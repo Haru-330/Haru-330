@@ -3,9 +3,9 @@
 
 Hello! I'm Haru-330.
 
-I am a developer living in Japan.
+I'm a mobile app developer living in Japan.
 
-I am currently in my first year as a new graduate.
+I'm currently in my second year after graduating from university.
 
 I was involved in development using Laravel as an intern at a company.
 
